@@ -73,7 +73,12 @@
   border-radius: 2px;
 }
 
+
 .commentBox footer button:hover {
+  color: var(--gray-100);
+}
+
+.commentBox footer button.pressed {
   color: var(--green-300);
 }
 
