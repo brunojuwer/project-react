@@ -78,7 +78,7 @@
   color: var(--gray-100);
 }
 
-.commentBox footer button.pressed {
+.commentBox footer button:active {
   color: var(--green-300);
 }
 
