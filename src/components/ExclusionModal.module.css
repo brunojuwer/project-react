@@ -75,3 +75,10 @@
   background: var(--gray-600);
   color: var(--red-500);
 }
+
+@media (max-width: 450px) {
+  .modalContent {
+    max-width: 380px;
+    margin: 0 1rem;
+  }
+}
